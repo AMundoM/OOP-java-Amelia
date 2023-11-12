@@ -36,6 +36,7 @@ public class GestorCoches {
         c3.arrancar();
 
         Rueda ruedaEjemplo = new Rueda(20L);
+        Rueda ruedaMoto = new Rueda(15L);
 
 
 //        c1.nRuedas = 5;
